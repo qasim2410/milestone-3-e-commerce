@@ -14,7 +14,7 @@ const TopAnnouncement = () => {
           <div className="flex flex-wrap gap-4 items-center ml-2 lg:ml-11 ">
             <div className="flex items-center gap-2">
               <IoMail className="text-lg" />
-              <span className="text-base">mhhasanul@gmail.com</span>
+              <span className="text-base">qasim.hussain2410@gmail.com</span>
             </div>
             <div className="flex items-center gap-2">
               <IoCall className="text-lg" />
